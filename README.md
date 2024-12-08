@@ -12,10 +12,10 @@
 - Git, PostgreSQL  
 
 ## 🌱 Projetos em Destaque  
-📌 **[Sistema de Avaliação Hospital](https://github.com/CarlosWeg/sistemaAvaliacaoHrav):**  
+📌 **[Sistema de Avaliação Hospital](https://github.com/CarlosWeg/sistemaAvaliacaoHrav)**  
 Front-end e Back-end para avaliação anônima de serviços hospitalares.  
 
-📌 **[Site sobre Jazz](https://github.com/CarlosWeg/siteMusicosJazz):**  
+📌 **[Site sobre Jazz](https://github.com/CarlosWeg/siteMusicosJazz)**  
 Página dedicada a músicos de Jazz (hobby), com interatividade e design responsivo.  
 
 ## 📫 Contatos  
