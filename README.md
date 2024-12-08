@@ -12,8 +12,8 @@
 
 ## 🌱 Projetos em Destaque  
 📌 **[Sistema de Avaliação Hospital](https://github.com/CarlosWeg/sistemaAvaliacaoHrav)**  
-Front-end e Back-end para avaliação anônima de serviços hospitalares.
-Tecnologias: PHP, PostgreSQL, HTML, CSS.  
+Projeto para avaliação anônima de serviços hospitalares.
+Tecnologias: PHP, PostgreSQL, HTML, CSS, Javascript.  
 
 📌 **[Site sobre Jazz](https://github.com/CarlosWeg/siteMusicosJazz)**  
 Página dedicada a músicos de Jazz (hobby), com interatividade e design responsivo.
