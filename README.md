@@ -8,9 +8,9 @@
 - **Outras Habilidades**: Git, PostgreSQL
 
 ## 🌱 Projetos em destaque
-- [Sistema de Avaliação HRAV](https://github.com/CarlosWeg/sistemaAvaliacaoHrav)
-- [Site sobre Jazz Clássico](https://github.com/CarlosWeg/siteMusicosJazz)
+- [Sistema de Avaliação Hospital](https://github.com/CarlosWeg/sistemaAvaliacaoHrav) - Front e Back end
+- [Site sobre Jazz](https://github.com/CarlosWeg/siteMusicosJazz) - Front End
 
-## 📫 Como me encontrar
+## 📫 Contatos:
 - Email: carloshenriqueandrade2005@gmail.com
 - LinkedIn: (https://www.linkedin.com/in/carlos-weege/)
