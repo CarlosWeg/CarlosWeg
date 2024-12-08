@@ -1,7 +1,7 @@
 # 👋 Olá, me chamo Carlos!
 
 🎓 **Estudante de Sistemas de Informação**  
-📍 **Rio do Sul, SC**  
+📍 **Santa Catarina**  
 
 ## 🚀 Tecnologias e Ferramentas
 🛠️ **Linguagens:**  
