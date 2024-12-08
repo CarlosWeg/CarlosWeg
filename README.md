@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, me chamo Carlos!
 
-<!--
-**CarlosWeg/CarlosWeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação. 
+🌍 Atualmente focado em aprender PHP, MVC e aprofundar meus conhecimentos em SQL.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
+- **Linguagens**: PHP, Delphi, JavaScript, HTML, CSS, SQL
+- **Outras Habilidades**: Git, PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Projetos em destaque
+- [Sistema de Avaliação HRAV](https://github.com/CarlosWeg/sistemaAvaliacaoHrav)
+- [Site sobre Jazz Clássico](https://github.com/CarlosWeg/siteMusicosJazz)
+
+## 📫 Como me encontrar
+- Email: carloshenriqueandrade2005@gmail.com
+- LinkedIn: (https://www.linkedin.com/in/carlos-weege/)
