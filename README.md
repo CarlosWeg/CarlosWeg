@@ -11,7 +11,7 @@
 ⚙️ **Outras Habilidades:**  
 - Git, PostgreSQL  
 
-## 🌟 Projetos em Destaque  
+## 🌱 Projetos em Destaque  
 📌 **[Sistema de Avaliação Hospital](https://github.com/CarlosWeg/sistemaAvaliacaoHrav):**  
 Front-end e Back-end para avaliação anônima de serviços hospitalares.  
 
@@ -20,4 +20,4 @@ Página dedicada a músicos de Jazz (hobby), com interatividade e design respons
 
 ## 📫 Contatos  
 📧 **Email:** [carloshenriqueandrade2005@gmail.com](mailto:carloshenriqueandrade2005@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/carlos-weege](https://www.linkedin.com/in/carlos-weege/) 
+🔗 **LinkedIn:** [linkedin.com/in/carlos-weege](https://www.linkedin.com/in/carlos-weege/)
