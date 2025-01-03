@@ -1,8 +1,5 @@
 # 👋 Olá, me chamo Carlos!
 
-🎓 **Estudante de Sistemas de Informação**  
-📍 **Santa Catarina**  
-
 ## 🚀 Tecnologias e Ferramentas
 🛠️ **Linguagens:**  
 - PHP, Delphi, JavaScript, HTML, CSS e SQL  
